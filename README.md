@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stcastell" alt="stcastell" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imsadoc" target="blank"><img src="https://img.shields.io/twitter/follow/stcastell?logo=twitter&style=for-the-badge" alt="@imsadoc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imsadoc" target="blank"><img src="https://img.shields.io/twitter/follow/imsadoc?logo=twitter&style=for-the-badge" alt="@imsadoc" /></a> </p>
 <!--
 - 🌱 I’m currently learning **Frameworks(Reacts) and different languages for the best domain and management for development and programming**
 
