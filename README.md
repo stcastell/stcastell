@@ -1,7 +1,7 @@
 <div id ="header">
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=stcastell&label=Profile%20views&color=0e75b6&style=flat" alt="stcastell" /> </p>
   <h1 align="center">Hello there, I'm @stcastell 👋</h1>
-  <h2 align="center">A web developer and engineering student from Venezuela</h2>
+  <h3 align="center">A web developer and engineering student from Venezuela</h3>
 </div>
 
 <h2>My Stats</h2>
@@ -21,8 +21,9 @@
 - 🌱 I’m currently learninng **React.js**, **Verilog** and i'm sharpening my Javascript.
 - 🌎 Almost bilingual (Spanish - English).
 - 👯 I’m looking to collaborate on web development projects as a frontend developer.
-- 📫 How to reach me: **santicastell98@hotmail.com**, **santiago.love.hm@gmail.com** (See my other links below).
+- 📫 How to reach me: santicastell98@hotmail.com, santiago.love.hm@gmail.com.
 - ⚡ Fun fact: I am not funny, but funny things happen to me.
+
 <!--
 <h2 align="left">Connect with me:</h2>
 <p align="left">
