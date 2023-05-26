@@ -9,7 +9,7 @@
 <h2>About me</h2>
 
 - 🔭 I’m currently working on <a href="https://jeradevelopers.github.io/">**Jera Devs**</a> as web developer and designer. 
-- 🌱 I’m currently learninng **React.js**, **Verilog** and i'm sharpening my **Javascript**.
+- 🌱 I’m currently learning **React.js**, **Verilog** and i'm sharpening my **Javascript**.
 - 🌎 Almost bilingual (Spanish - English).
 - 👯 I’m looking to collaborate on web development projects as a frontend developer.
 - 📫 How to reach me: santicastell98@hotmail.com, santiago.love.hm@gmail.com.
