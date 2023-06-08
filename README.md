@@ -9,6 +9,7 @@
 <h2>About me</h2>
 
 - 🔭 I’m currently working on <a href="https://jeradevelopers.github.io/">**Jera Devs**</a> as web developer and designer. 
+- :computer: Check <a href="https://github.com/stcastell/stcastell-portfolio">my website</a> process!
 - 🌱 I’m currently learning **React.js**, **Verilog** and i'm sharpening my **Javascript**.
 - 🌎 Almost bilingual (Spanish - English).
 - 👯 I’m looking to collaborate on web development projects as a frontend developer.
