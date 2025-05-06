@@ -12,9 +12,7 @@
 - :computer: Check <a href="https://stcastell.github.io/stcastell-portfolio/">my website</a>!
 - 🌱 I’m currently learning **React.js**, **Verilog** and i'm sharpening my **Javascript**.
 - 🌎 Almost bilingual (Spanish - English).
-- 👯 I’m looking to collaborate on web development projects as a frontend developer.
-- 📫 How to reach me: santicastell98@hotmail.com, santiago.love.hm@gmail.com.
-- ⚡ Fun fact: I am not funny, but funny things happen to me.
+- 📫 How to reach me: santicastell98@hotmail.com.
 
 <br>
 
