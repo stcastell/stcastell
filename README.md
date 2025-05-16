@@ -9,7 +9,7 @@
 <h2>About me</h2>
 
 - 🔭 I’m currently working on <a href="https://jeradevelopers.github.io/">**Jera Devs**</a> as web developer and designer. 
-- :computer: Check <a href="https://stcastell.github.io/stcastell-portfolio/">my website</a>!
+- :computer: Check <a href="https://stcastell-portfolio.vercel.app/">my website</a>!
 - 🌱 I’m currently learning **React.js**, **Verilog** and i'm sharpening my **Javascript**.
 - 🌎 Almost bilingual (Spanish - English).
 - 📫 How to reach me: santicastell98@hotmail.com.
